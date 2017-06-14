@@ -28,15 +28,20 @@
 
 ```
 Q1. What are trees?
-A1. Big, tall and strong plants are called trees. Gulmohar, Banyan and Coconut
-trees.
+A1. Big, tall and strong plants are called trees. Examples : Gulmohar, Banyan 
+and Coconut tree.
 
 Q2. Why do some plant need support to grow?
 A2. Plants like money plant, pea and grapevine cannot grow straight up as they
 need support to grow.
 
+Some plants are weak and cannot grow straight, so they need support. Examples
+Money plant and Pea plant.
+
+
 Q3. How do roots helps a plant?
-A3. The root fixes the plant to ground and give support to the plants.
+A3. The root fixes the plant to ground and give support to the plants. Roots
+absorb water and nutrients.
 
 Q4. What do leaves need to make food for the plant?
 A4. Leaves need air, water and sunlight to make food.

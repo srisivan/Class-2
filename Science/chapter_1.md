@@ -110,5 +110,13 @@ absorb water and nutrients.
 Q4. What do leaves need to make food for the plant?
 A4. Leaves need air, water and sunlight to make food.
 
+
+Q5. Write the functions of stem, leaf, roots
+A5. The functions are mentioned below
+- Leaf : Makes food for the plants with help of air, water and sunlight
+- Root : Fixes the plant to ground. Obsorbs water and nutrients from soil
+- Stem : Carries water and food to all parts of the plant
+
 ```
+
 

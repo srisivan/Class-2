@@ -89,9 +89,9 @@ A4. Milk is a complete food, it make our bones and teeth strong
 
 Q5. Name three kinds of food?
 A5. The three kinds of foods are
-    - Energy giving food
-	- Protective food
-	- Body building food
+- Energy giving food
+- Protective food
+- Body building food
 
 ```
 

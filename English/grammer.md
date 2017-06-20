@@ -1,4 +1,4 @@
-# Grammer
+# Grammar
 
 ## Noun
 All naming words are called __Nouns__.

@@ -62,4 +62,37 @@ A3. People who eat fish, egg and meat are called non vegetarian.
 * Have food at fixed time
 * Drink milk everyday
 
+# Fill in the blanks
+
+* __Food__ gives us energy
+* __Vegetables__ and __fruits__ keep us in good health
+* __Milk__ is called complete food
+* __Water__ help us to digest the food
+* People who do not eat fish, eggs and meat are called __vegetarians__
+* People who eat fish, eggs, meat are called __non-vegetarians__
+
+# Question and Answers
+
+```
+
+Q1. Why do we need food?
+A1. We need food to grow, to get energy to work and play
+
+Q2. Why is water necessary?
+A2. Water is necessary because it helps us to digest the food
+
+Q3. Who are non-vegetarians? 
+A3. People who eat fish, eggs and meat are called non-vegetarians
+
+Q4. Why must we drink milk?
+A4. Milk is a complete food, it make our bones and teeth strong
+
+Q5. Name three kinds of food?
+A5. The three kinds of foods are
+    - Energy giving food
+	- Protective food
+	- Body building food
+
+
+```
 

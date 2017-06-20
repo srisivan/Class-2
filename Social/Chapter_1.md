@@ -93,6 +93,5 @@ A5. The three kinds of foods are
 	- Protective food
 	- Body building food
 
-
 ```
 
